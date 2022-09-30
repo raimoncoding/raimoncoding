@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raimoncoding
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Flutter apps Development 
-- 📫 How to reach me; mail to raimoncoding@gmail.nl
+- 📫 How to reach me; mail to info@raimoncoding.nl
 
 <!---
 raimoncoding/raimoncoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
