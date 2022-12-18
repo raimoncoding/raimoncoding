@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raimoncoding
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning Flutter apps Development 
+- 🌱 I’m currently learning Data Structures & Algorithms 
 - 📫 How to reach me; mail to info@raimoncoding.nl
 
 <!---
